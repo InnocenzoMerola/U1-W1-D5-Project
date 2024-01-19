@@ -1,0 +1,192 @@
+/* Your styles here */
+header {
+  font-family: "Montserrat", sans-serif;
+  line-height: 1.5;
+  color: #25a2c3;
+  background-color: black;
+}
+body {
+  color: #393d41;
+  font-size: 1.2rem;
+  line-height: 1.65;
+  font-family: "Open Sans", sans-serif;
+  text-align: center;
+}
+
+.divA {
+  width: 100%;
+  padding-bottom: 1em;
+}
+
+header img {
+  width: 35%;
+  margin-inline: 6.5em;
+  padding-top: 1.5em;
+}
+header h1 {
+  font-weight: bold;
+  padding-bottom: 1em;
+  font-size: 30px;
+  line-height: 1.1;
+}
+
+header p {
+  color: #393d41;
+  padding-bottom: 1.6rem;
+}
+
+.divB {
+  background-image: url(/Esercizio/images/banner.jpg);
+  padding: 3rem;
+  text-align: center;
+  background-size: cover;
+  background-position: center;
+}
+
+h4,
+h6 {
+  color: #25a2c3;
+}
+
+.h4t {
+  padding-top: 2.5em;
+  padding-bottom: 0.5em;
+}
+
+h4 {
+  padding-top: 1em;
+  padding-bottom: 0.5em;
+  font-weight: bold;
+}
+
+article div {
+  font-size: 19px;
+  padding-bottom: 2em;
+}
+
+article div img {
+  width: 50%;
+  border-radius: 100%;
+  padding-top: 1em;
+}
+
+section {
+  background-color: #e22d0e;
+  width: 100%;
+  height: 13em;
+  padding-top: 2em;
+}
+
+section h2 {
+  padding-bottom: 0.5em;
+  font-size: 35px;
+  color: white;
+  font-weight: bold;
+}
+
+.p1 {
+  font-size: 15px;
+  color: white;
+  font-style: italic;
+  padding-bottom: 1.7em;
+}
+
+section h3 {
+  font-size: 25px;
+  color: white;
+}
+
+.p2 {
+  font-size: 17px;
+  color: white;
+}
+
+.p2 span {
+  font-size: 15px;
+}
+
+section,
+.p1,
+.p2,
+h3 {
+  color: #dddddde0;
+}
+
+button {
+  background-color: #f04c2f;
+  font-family: "Montserrat", sans-serif;
+  font-weight: bold;
+  color: white;
+  border: #dee1e3;
+  border-radius: 6px;
+  height: 50px;
+  width: 150px;
+  font-size: 15px;
+}
+
+aside img {
+  width: 100%;
+}
+
+aside {
+  width: 80%;
+  padding-inline: 2em;
+  padding-top: 3em;
+  padding-bottom: 3em;
+}
+
+.asid-div1 {
+  border: 1px solid #dee1e3;
+}
+
+.asid-div2 {
+  margin-top: 1.5em;
+  border: 1px solid #dee1e3;
+}
+
+.asid-div3 {
+  margin-top: 1.5em;
+  border: 1px solid #dee1e3;
+}
+
+aside h6 {
+  font-weight: bold;
+}
+footer {
+  color: #c8e7f0;
+  background-color: #25a2c3;
+  height: 16em;
+  padding: 2em;
+  padding-bottom: 0em;
+}
+
+footer div {
+  color: #c8e7f0;
+  padding-bottom: 1.5em;
+  border-bottom: 1px solid;
+}
+
+footer div a {
+  color: #c8e7f0;
+  display: block;
+}
+
+footer div a p {
+  font-size: 0.8em;
+}
+
+footer div h2 {
+  font-size: 35px;
+  font-weight: bold;
+  padding-bottom: 0.3em;
+  color: white;
+}
+
+.footer-p {
+  padding-top: 1.8em;
+  font-size: 0.7em;
+}
+
+footer p a {
+  color: #c8e7f0;
+}
