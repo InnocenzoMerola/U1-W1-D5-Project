@@ -1,4 +1,7 @@
 /* Your styles here */
+/* * {
+  box-sizing: border-box;
+} */
 header {
   font-family: "Montserrat", sans-serif;
   line-height: 1.5;
@@ -131,22 +134,18 @@ aside img {
 aside {
   width: 80%;
   padding-inline: 2em;
-  padding-top: 3em;
+  padding-top: 1.5em;
   padding-bottom: 3em;
 }
 
-.asid-div1 {
-  border: 1px solid #dee1e3;
-}
-
-.asid-div2 {
+aside div {
   margin-top: 1.5em;
   border: 1px solid #dee1e3;
 }
 
-.asid-div3 {
-  margin-top: 1.5em;
-  border: 1px solid #dee1e3;
+aside div p {
+  font-size: 14px;
+  padding-bottom: 2em;
 }
 
 aside h6 {
