@@ -1,0 +1,232 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+header {
+  font-family: "Montserrat", sans-serif;
+  line-height: 1.5;
+  color: #25a2c3;
+  background-color: black;
+}
+body {
+  color: #393d41;
+  font-size: 1.2rem;
+  line-height: 1.65;
+  font-family: "Open Sans", sans-serif;
+}
+
+.divA {
+  width: 100%;
+  padding-bottom: 1.5em;
+}
+
+header img {
+  width: 12em;
+  padding-top: 1.5em;
+  padding-left: 3em;
+}
+header h1 {
+  font-weight: bold;
+  padding-bottom: 1em;
+  font-size: 2em;
+  line-height: 1.1;
+}
+
+header p {
+  color: #393d41;
+  padding-bottom: 1.6rem;
+  font-size: 1.5em;
+}
+
+.divB {
+  background-image: url(/Esercizio/images/banner.jpg);
+  width: 100%;
+  padding: 18em;
+  text-align: center;
+  padding-inline: 35em;
+  background-size: cover;
+  min-height: 73vh;
+}
+
+h4,
+h6 {
+  color: #25a2c3;
+}
+
+.h4t {
+  padding-top: 2.5em;
+  padding-bottom: 0.5em;
+}
+
+h4 {
+  padding-top: 1em;
+  padding-bottom: 0.5em;
+  font-weight: bold;
+  font-size: 1.1em;
+}
+section {
+  padding-block: 10em;
+}
+
+.div3 {
+  width: 50%;
+  padding-top: 1em;
+  display: inline-block;
+  text-align: center;
+  margin-left: 10em;
+}
+
+.div3 img {
+  border-radius: 100%;
+  width: 65%;
+}
+
+.div4 {
+  font-size: 30px;
+  padding-bottom: 2em;
+  display: inline-block;
+  width: 26em;
+  vertical-align: top;
+  /* margin-right: 10em; */
+  margin-left: -3em;
+}
+
+.section1 {
+  background-color: #e22d0e;
+  width: 100%;
+  padding-block: 5em;
+  text-align: center;
+}
+
+.section1 h2 {
+  padding-bottom: 0.5em;
+  font-size: 35px;
+  color: white;
+  font-weight: bold;
+}
+
+.p1 {
+  font-size: 1.6em;
+  color: white;
+  font-style: italic;
+  padding-bottom: 1.7em;
+}
+
+.section1 h3 {
+  font-size: 1em;
+  color: white;
+}
+
+.p2 {
+  font-size: 0.6em;
+  color: white;
+}
+
+.p2 span {
+  font-size: 15px;
+}
+
+.section1,
+.p1,
+.p2,
+h3 {
+  color: #dddddde0;
+}
+
+button {
+  background-color: #f04c2f;
+  font-family: "Montserrat", sans-serif;
+  font-weight: bold;
+  color: white;
+  border: #dee1e3;
+  border-radius: 6px;
+  height: 50px;
+  width: 150px;
+  font-size: 15px;
+}
+
+.Immagini {
+  width: 100%;
+  /* object-fit: cover; */
+  max-height: 29em;
+  height: 24em;
+}
+
+aside {
+  width: 100%;
+  padding-top: 6em;
+  padding-bottom: 8em;
+  text-align: center;
+  padding-inline: 5em;
+}
+
+aside div {
+  margin-top: 1.5em;
+  width: 27%;
+  display: inline-block;
+  margin-inline: 1em;
+  vertical-align: -webkit-baseline-middle;
+  border: 1px solid #dee1e3;
+  height: 35em;
+}
+
+aside div p {
+  font-size: 30px;
+  padding-bottom: 2em;
+}
+
+aside h6 {
+  font-weight: bold;
+  font-size: 1.5em;
+}
+
+footer {
+  color: #c8e7f0;
+  background-color: #25a2c3;
+  height: 23em;
+  padding: 2em;
+  padding-bottom: 0em;
+}
+
+footer div,
+.div5 {
+  color: #c8e7f0;
+  padding-bottom: 0.5em;
+  padding-inline: 40em;
+  text-align: center;
+}
+
+footer div h2 {
+  font-size: 60px;
+  font-weight: bold;
+  padding-bottom: 0.3em;
+  color: white;
+}
+
+footer div a {
+  color: #c8e7f0;
+  display: block;
+}
+
+.div5 {
+  font-size: 20px;
+  text-align: left;
+  margin-left: 12.5%;
+}
+
+.footer-p {
+  padding-top: 1.8em;
+  font-size: 0.7em;
+  text-align: center;
+}
+
+.footer-p a {
+  color: #c8e7f0;
+}
+
+hr {
+  width: 14em;
+  border: 1px solid;
+}
